@@ -1,0 +1,5 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  // Turso está en aws-sa-east-1 (San Pablo): servir desde gru1 minimiza latencia.
+  "regions": ["gru1"]
+}

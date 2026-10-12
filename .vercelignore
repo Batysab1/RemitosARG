@@ -1,0 +1,6 @@
+# No subir a Vercel: bases locales, secretos y logs de dev
+*.db
+*.db-journal
+*.sqlite
+.env*
+npm-debug.log*

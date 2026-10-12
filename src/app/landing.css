@@ -1,0 +1,3 @@
+/* Landing single pricing card */
+.pricing-single { display: grid; grid-template-columns: 1fr; max-width: 420px; margin-inline: auto; }
+.pricing-single .price-card { width: 100%; }
